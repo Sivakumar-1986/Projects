@@ -1,3 +1,0 @@
-Team Foundation server
-Teamcity
-Artifactory
