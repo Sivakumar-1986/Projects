@@ -2,3 +2,4 @@ Team Foundation server
 Teamcity
 Artifactory
 GitHub
+Selenium
