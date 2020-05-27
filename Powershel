@@ -1,0 +1,3 @@
+___https://teamcity-support.jetbrains.com/hc/en-us/community/posts/206166369-Triggering-a-build-using-REST-API-and-parameters   ---> to call Rest API
+___https://gist.github.com/atwayne/6bb9a59e3b5f28b3ca2b027e165bff7b  --- Full Script to trigger  Team city the Build via PowerShell 
+___https://confluence.jetbrains.com/display/TCD10/REST+API#RESTAPI-TriggeringaBuild  ---> Trigger Build in Rest API
