@@ -1,0 +1,95 @@
+Deploy a .NET Sample Application Using AWS Elastic Beanstalk
+ 
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_NET.quickstart.html?sc_channel=sm&sc_campaign=Docs&sc_publisher=FACEBOOK&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_FACEBOOK&sc_content=Docs&linkId=53422494
+
+Dynamic Whole Site Delivery with Amazon CloudFront
+
+https://aws.amazon.com/blogs/networking-and-content-delivery/dynamic-whole-site-delivery-with-amazon-cloudfront/?sc_channel=sm&sc_campaign=AWS_Blog&sc_publisher=FACEBOOK&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trkCampaign=?sc_channel=sm&sc_campaign=blog_content_delivery_awareness_2018&sc_geo=mult&sc_country=global&sc_outcome=aware&trk=?sc_channel=sm&sc_campaign=blog_content_delivery_awareness_2018&sc_geo=mult&sc_country=global&sc_outcome=aware_FACEBOOK&sc_content=blog,%20tutorial&sc_category=Amazon_CloudFront&linkId=53641326
+
+What is AWS Key Management Service?
+
+https://docs.aws.amazon.com/kms/latest/developerguide/overview.html?sc_channel=sm&sc_campaign=Docs&sc_publisher=FACEBOOK&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_FACEBOOK&sc_content=Docs&linkId=53691036
+
+What Is Amazon Cognito? Just search in Google and go to Amazon link
+
+What Is Amazon EKS? Just search in Google and go to Amazon link
+
+Terraform : https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
+
+Azure Full VIdeos : https://www.youtube.com/channel/UCNA6zO3qpCuZR-dUsAi9FGQ
+
+https://cloudaffaire.com/aws-ec2-instance-types/
+https://cloudaffaire.com/create-an-aws-ec2-instance-using-launch-template/
+
+AWS-Advanced ECS - Elastic Container Services:
+https://www.youtube.com/watch?v=9JpRt7ZISKo&t=96s&app=desktop
+
+Powershell : https://www.youtube.com/playlist?list=PLu4OW1pNPdSAcJdPp2ZdyFoOY_ck0GhrW&app=desktop
+
+https://cloudaffaire.com/create-an-elastic-ip-address-and-assign-to-an-instance/
+
+What is Kubernetes | Kubernetes Architecture
+https://www.youtube.com/watch?utm_campaign=Shubham_2ndJan_kubernetes&utm_medium=Social+Media&feature=youtu.be&utm_source=FB%2FLinkedIn&v=I-IUPw9yDwU&app=desktop
+
+https://cloudaffaire.com/cross-region-replication-crr/
+
+Schedule Snapshot Of EBS Volume Using Lifecycle Manager
+https://cloudaffaire.com/schedule-snapshot-of-ebs-volume-using-lifecycle-manager/
+
+Create Automated Backup of EC2 and Volume on AWS
+
+https://www.youtube.com/watch?feature=youtu.be&v=-DpKCBAVtvE&app=desktop
+
+Create a Pipeline That Uses Amazon S3 as a Deployment Provider
+https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-s3deploy.html?sc_channel=sm&sc_campaign=Docs&sc_publisher=FACEBOOK&sc_country=Global&sc_geo=GLOBAL&sc_outcome=awareness&trk=_FACEBOOK&sc_content=Docs&linkId=63414779
+
+AWS CloudWatch Tutorial | AWS YouTube Video | Intellipaat
+https://www.youtube.com/watch?v=ekHzOPzR1wA&feature=youtu.be&app=desktop
+
+
+Create Network File System in Cloud | AWS tutorials for beginners | EFS
+
+https://www.youtube.com/watch?v=XzR7EF2P-E0&feature=youtu.be&app=desktop
+
+Learn more about how continuous integration & continuous delivery (CI/CD) can help your DevOps team accelerate software delivery. https://amzn.to/2UmiTNX
+
+Snowball
+https://prnt.sc/neupr5
+
+
+How to Host a Static Website on AWS S3 and using Route53
+
+https://www.youtube.com/watch?v=AnFHtJqblaM&feature=youtu.be
+
+https://www.youtube.com/watch?v=AnFHtJqblaM&feature=youtu.be
+
+Controlling Which Auto Scaling Instances Terminate During Scale In:
+
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.html
+
+How to create a billing alarm for my AWS account.
+https://www.youtube.com/watch?feature=youtu.be&v=hV9nujerPY0&app=desktop
+
+
+AWS-Advanced ECS - Elastic Container Services
+
+https://www.youtube.com/watch?v=9JpRt7ZISKo&feature=youtu.be&app=desktop
+
+AWS Advanced - EKS - Amazon Elastic Container Service for Kubernetes
+
+https://www.youtube.com/watch?v=em1Ox5CjL-Y&app=desktop
+
+Cloud Migration - Single VM
+
+https://www.youtube.com/watch?feature=youtu.be&v=lUDhWZWEUiQ&app=desktop
+
+Continuous Deployment to Kubernetes using AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, Amazon ECR and AWS Lambda 
+
+https://aws.amazon.com/blogs/devops/continuous-deployment-to-kubernetes-using-aws-codepipeline-aws-codecommit-aws-codebuild-amazon-ecr-and-aws-lambda/
+
+Vpc peering:
+https://m.youtube.com/watch?v=kM7zunMeBg8&feature=youtu.be
+
+Ecr and ECS fargate 
+
+https://m.youtube.com/watch?v=JzsSjcyN3MI
