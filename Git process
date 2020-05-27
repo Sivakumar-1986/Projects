@@ -1,0 +1,59 @@
+Normal 
+
+gitclone - git@github.source.internal.cba:DEA/Octopus.Onboarding.git / https://github.source.internal.cba/DEA/Octopus.Onboarding.git
+
+C:\Repo\Teamcity.agent.puppet.setvariables>git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working tree clean
+
+
+git checkout -b "Branchname"
+C:\Repo\Teamcity.agent.puppet.setvariables>git checkout -b feature/DEACDEDT-2543
+Switched to a new branch 'feature/DEACDEDT-2543'
+
+C:\Repo\Teamcity.agent.puppet.setvariables>git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working tree clean
+
+C:\Repo\Teamcity.agent.puppet.setvariables>git checkout -b feature/DEACDEDT-2543
+Switched to a new branch 'feature/DEACDEDT-2543'
+
+C:\Repo\Teamcity.agent.puppet.setvariables>##env.NODEJS_8.9.0=e:\\nodejs\\8.9.0\\node-v8.9.0-win-x64git
+'##env.NODEJS_8.9.0' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Repo\Teamcity.agent.puppet.setvariables>git status
+On branch feature/DEACDEDT-2543
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   hiera/hieradata/environments/Prod/TeamCity/windows-agent-default.yaml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Repo\Teamcity.agent.puppet.setvariables>git add -A
+
+C:\Repo\Teamcity.agent.puppet.setvariables>git commit -m "DEACDEDT-2543:added new version of nodejs"
+[feature/DEACDEDT-2543 dea1ad0] DEACDEDT-2543:added new version of nodejs
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+C:\Repo\Teamcity.agent.puppet.setvariables>git push -u origin feature/DEACDEDT-2543
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+C:\Repo\Teamcity.agent.puppet.setvariables>git push -u origin feature/DEACDEDT-2543
+Counting objects: 8, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (8/8), 630 bytes | 0 bytes/s, done.
+Total 8 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To github.source.internal.cba:DEA/Teamcity.agent.puppet.setvariables.git
+ * [new branch]      feature/DEACDEDT-2543 -> feature/DEACDEDT-2543
+Branch feature/DEACDEDT-2543 set up to track remote branch feature/DEACDEDT-2543 from origin.
